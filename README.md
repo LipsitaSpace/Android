@@ -67,10 +67,13 @@
 66. new targate in lunch 
 67. system apps and how to create (BP file main signature), prive app, vendor app, unbundled, 3rd party , cluster , companion app\
 68. concurrent map , concurrent hash map
-69. resource overriding
-70. which method is overriden in service
-71. AIDL
-72. HIDL
-73. AAOSP
-74. AOSP
-75. HAL
+69. benifits of different layout
+71. resource overriding
+72. which method is overriden in service
+73. AIDL
+74. HIDL
+75. AAOSP
+76. AOSP
+77. HAL
+78. jetpack libraries
+79. publishing of app
